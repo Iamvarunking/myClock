@@ -1,0 +1,32 @@
+body {
+    background-color:black;
+}
+
+#clock {
+    color:#fff;
+    font-size: 195px;
+    background-color: rgb(20, 16, 56);
+    padding: 0.5em 0em;
+    width: 80%;
+    margin: 0px auto;
+    font-family:Helvetica, sans-serif ;
+    text-align: center;
+}
+
+#heading{
+    color:#fefefe;
+    font-size: 50px;
+    text-align: center;
+    background-color:#2e9b45;
+    padding: 0.5em 0em;
+    width: 80%;
+    margin: 10% auto 0%;
+    font-family:Helvetica, sans-serif;
+    text-align: left;
+    text-transform: uppercase;
+
+}
+
+span {
+    margin-left:175px;
+}
